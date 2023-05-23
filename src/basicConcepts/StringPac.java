@@ -10,6 +10,8 @@ System.out.println("I am in main method stringpac2");
 System.out.println("I am in main method stringpac2  branch A3");
 System.out.println("I am in main method stringpac2  branch B2");
 System.out.println("I am in main method stringpac2  branch A2");
+System.out.println("I am in stringpac1 B3");
+System.out.println("I am in stringpac1 B3 new");
 System.out.println("I am in main method stringpac2 branch B2 new");
 
 System.out.println("I am in main method new A2");
